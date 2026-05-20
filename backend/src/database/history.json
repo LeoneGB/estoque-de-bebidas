@@ -1,0 +1,23 @@
+[
+  {
+    "type": "EDIT",
+    "date": "2026-05-20T20:35:08.914Z"
+  },
+  {
+    "type": "EDIT",
+    "drinkId": 11,
+    "date": "2026-05-20T20:41:35.487Z"
+  },
+  {
+    "type": "CREATE",
+    "drinkId": 12,
+    "drinkName": "Fanta Uva",
+    "date": "2026-05-20T20:46:38.907Z"
+  },
+  {
+    "type": "DELETE",
+    "drinkId": 12,
+    "drinkName": "Fanta Uva",
+    "date": "2026-05-20T20:49:47.743Z"
+  }
+]

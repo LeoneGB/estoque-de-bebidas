@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-Cola",
+    "company": "Coca-Cola",
+    "alcoholic": false,
+    "energyDrink": false,
+    "quantity": 25,
+    "price": 7.5
+  },
+  {
+    "id": 2,
+    "name": "Pepsi",
+    "company": "PepsiCo",
+    "alcoholic": false,
+    "energyDrink": false,
+    "quantity": 18,
+    "price": 6.99
+  },
+  {
+    "id": 3,
+    "name": "Heineken",
+    "company": "Heineken",
+    "alcoholic": true,
+    "energyDrink": false,
+    "quantity": 40,
+    "price": 9.5
+  },
+  {
+    "id": 4,
+    "name": "Budweiser",
+    "company": "AB InBev",
+    "alcoholic": true,
+    "energyDrink": false,
+    "quantity": 30,
+    "price": 8.99
+  },
+  {
+    "id": 5,
+    "name": "Monster Energy",
+    "company": "Monster",
+    "alcoholic": false,
+    "energyDrink": true,
+    "quantity": 15,
+    "price": 11
+  },
+  {
+    "id": 6,
+    "name": "Red Bull",
+    "company": "Red Bull",
+    "alcoholic": false,
+    "energyDrink": true,
+    "quantity": 20,
+    "price": 12.5
+  },
+  {
+    "id": 7,
+    "name": "Jack Daniel's",
+    "company": "Jack Daniel's",
+    "alcoholic": true,
+    "energyDrink": false,
+    "quantity": 10,
+    "price": 89.9
+  },
+  {
+    "id": 8,
+    "name": "Smirnoff Ice",
+    "company": "Smirnoff",
+    "alcoholic": true,
+    "energyDrink": false,
+    "quantity": 22,
+    "price": 10.99
+  },
+  {
+    "id": 9,
+    "name": "Guaraná Antarctica",
+    "company": "Ambev",
+    "alcoholic": false,
+    "energyDrink": false,
+    "quantity": 35,
+    "price": 5.5
+  },
+  {
+    "id": 10,
+    "name": "Corona Extra",
+    "company": "Grupo Modelo",
+    "alcoholic": true,
+    "energyDrink": false,
+    "quantity": 28,
+    "price": 13.75
+  },
+  {
+    "id": 11,
+    "name": "Fanta Laranja",
+    "company": "The Coca-Cola",
+    "alcoholic": false,
+    "energyDrink": false,
+    "quantity": 10,
+    "price": 5
+  }
+]
